@@ -1,6 +1,5 @@
 # • About Me
-Всё дело в мыслях. Мысль — начало всего. И мыслями можно управлять. И поэтому главное дело совершенствования — работать над мыслями.
-
+Счастье — это не нечто готовое. Счастье зависит только от ваших действий.
 
 ## • Socials
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/whydonthilde) 
