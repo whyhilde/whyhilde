@@ -13,3 +13,5 @@
 
 ## • GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=whyhilde&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+
+---
