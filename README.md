@@ -9,7 +9,7 @@
 # • Stats in github
 ![](https://github-readme-stats.vercel.app/api?username=whyhilde&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=radical&hide_border=false)<br/>
-
+-
 # • Trophies
 ![](https://github-profile-trophy.vercel.app/?username=whyhilde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
