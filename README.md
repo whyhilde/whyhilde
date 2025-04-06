@@ -1,6 +1,7 @@
 # • About me
 Счастье — это не нечто готовое. Счастье зависит только от ваших действий.
-## • links about social
+
+## • Links about social
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) 
 
 # • Tech stack
