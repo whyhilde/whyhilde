@@ -1,7 +1,7 @@
 # • About Me
 Счастье — это не нечто готовое. Счастье зависит только от ваших действий.
 
-## • Socials
+# • Links
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) 
 
 # • Tech Stack
@@ -11,7 +11,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyhilde&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## • GitHub Trophies
+## • Trophies
 ![](https://github-profile-trophy.vercel.app/?username=whyhilde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
