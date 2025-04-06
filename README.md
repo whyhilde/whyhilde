@@ -1,4 +1,4 @@
------
+---
 # • About me
 Счастье — это не нечто готовое. Счастье зависит только от ваших действий.
 
@@ -14,4 +14,4 @@
 # • Trophies
 ![](https://github-profile-trophy.vercel.app/?username=whyhilde&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
---
+---
