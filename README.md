@@ -1,10 +1,9 @@
 ---
 
-# 👋🏻 Приветствую тебя в моем GitHub!
-## 👤 КТО Я?
-Меня зовут hilde, я developer / 3d artist
+# ABOUT ME
+My name is hilde, I'm developer / 3d artist.
 
-Фрустрация — это когда твой код компилируется, но работает ровно не так, как ты ожидал.
+Frustration is when your code compiles but doesn’t work the way you expected.
 
 ## LINKS ABOUT SOCIAL
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whyhilde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) 
@@ -14,8 +13,4 @@
 # STATS IN GITHUB
 ![](https://github-readme-stats.vercel.app/api?username=whyhilde&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=rose_pine&hide_border=false)<br/>
-
-## TROPHIES
-![](https://github-profile-trophy.vercel.app/?username=whyhilde&theme=rose_pine&no-frame=false&no-bg=false&margin-w=4)
-
 ---
