@@ -1,5 +1,5 @@
 ---
-![](https://github.com/whyhilde/whyhilde/banner.png)
+![](https://github.com/whyhilde/whyhilde/blob/main/banner.png)
 **My name is hilde, I am developer / 3d artist**
 
 ## LINKS TO SOCIAL
