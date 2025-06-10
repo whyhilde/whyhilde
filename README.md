@@ -1,6 +1,6 @@
 ---
 
-**My name is hilde, I am developer / 3d artist**
+My name is hilde, I am developer / 3d artist
 
 ## LINKS TO SOCIAL
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whyhilde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/) 
