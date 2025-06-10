@@ -1,5 +1,5 @@
 ---
-# My name is hilde, I am developer / 3d artist.
+# My name is hilde, I am developer / 3d artist
 Frustration is when your code compiles but doesn’t work the way you expected.
 
 ## LINKS ABOUT SOCIAL
