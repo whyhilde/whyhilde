@@ -1,4 +1,3 @@
----
 
 ![Мой аватар](https://github.com/whyhilde/whyhilde/blob/main/banner.png)
 My name is hilde, I'm developer / 3d artist.
