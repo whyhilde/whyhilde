@@ -1,5 +1,4 @@
-
-![](https://github.com/whyhilde/whyhilde/blob/main/banner.png)
+# ![](https://github.com/whyhilde/whyhilde/blob/main/banner.png)
 ## My name is hilde, I'm developer / 3d artist.
 
 ## Frustration is when your code compiles but doesn’t work the way you expected.
