@@ -2,10 +2,10 @@
 
 - **I am developer / 3d artist**
 
-## LINKS TO SOCIAL
+## LINKS TO SOCIAL MEDIA
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whyhilde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/) 
 
-# TECH STACK
+## TECHNOLOGY STACK
 
 - **Programming languages**
 
@@ -19,7 +19,7 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-# STATISTICS
+## STATISTICS
 ![](https://github-readme-stats.vercel.app/api?username=whyhilde&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=gruvbox&hide_border=false)<br/>
 
