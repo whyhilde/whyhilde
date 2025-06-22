@@ -1,4 +1,4 @@
-## My name is hilde, 
+<h1 align="center"> My name is hilde! </h1> 
 ## I am developer / 3d artist
 
 ## LINKS TO SOCIAL
