@@ -24,7 +24,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-202020.svg?style=for-the-badge&logo=photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-202020.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## STATISTICS
-![](https://github-readme-stats.vercel.app/api?username=whyhilde&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=whyhilde&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=gruvbox&hide_border=false)
 
 ---
