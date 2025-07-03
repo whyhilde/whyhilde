@@ -9,7 +9,7 @@
 
 - **Programming languages**
 
-![Rust](https://img.shields.io/badge/rust-202020.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-202020?style=for-the-badge&logo=python&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-202020.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-202020.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-202020?style=for-the-badge&logo=python&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-202020.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - **Technologies**
 
