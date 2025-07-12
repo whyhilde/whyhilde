@@ -21,7 +21,7 @@
 
 ## STATISTICS IN GITHUB
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyhilde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=whyhilde&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=gruvbox&hide_border=false"  />
 </div>
 
