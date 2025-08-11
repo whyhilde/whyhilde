@@ -3,7 +3,7 @@
 - **I am system developer**
 
 ## LINKS TO SOCIAL MEDIA
-[![Telegram](https://img.shields.io/badge/Telegram-202020?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hildeproject) [![Habr](https://img.shields.io/badge/-habr-202020?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/whyhilde/) [![Twitch](https://img.shields.io/badge/Twitch-202020.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) [![Reddit](https://img.shields.io/badge/Reddit-202020.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde) [![YouTube](https://img.shields.io/badge/YouTube-202020.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@whyhilde) [![Pinterest](https://img.shields.io/badge/Pinterest-202020.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://ru.pinterest.com/whyhilde/_profile/)
+[![Telegram](https://img.shields.io/badge/Telegram-202020?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hildeproject) [![Habr](https://img.shields.io/badge/-habr-202020?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/whyhilde/) [![Twitch](https://img.shields.io/badge/Twitch-202020.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) [![Reddit](https://img.shields.io/badge/Reddit-202020.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde)
 
 ## TECHNOLOGY STACK
 
