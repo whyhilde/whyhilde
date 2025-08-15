@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, my name is hilde! </h1>
 
-- **I am system developer**
+- **I am system developer from Russia**
 
 ## LINKS TO SOCIAL MEDIA
 [![Telegram](https://img.shields.io/badge/Telegram-202020?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hildeproject) [![Habr](https://img.shields.io/badge/-habr-202020?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/whyhilde/) [![Reddit](https://img.shields.io/badge/Reddit-202020.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde)
@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=gruvbox&hide_border=false"  />
   <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuyma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhilde&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 </div>
 
 <h2 align="center"> MY TOP PROJECTS </h2>
