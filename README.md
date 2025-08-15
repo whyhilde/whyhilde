@@ -3,7 +3,7 @@
 - **I am system developer**
 
 ## LINKS TO SOCIAL MEDIA
-[![Telegram](https://img.shields.io/badge/Telegram-202020?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hildeproject) [![Habr](https://img.shields.io/badge/-habr-202020?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/whyhilde/) [![Twitch](https://img.shields.io/badge/Twitch-202020.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/whyhilde) [![Reddit](https://img.shields.io/badge/Reddit-202020.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde)
+[![Telegram](https://img.shields.io/badge/Telegram-202020?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hildeproject) [![Habr](https://img.shields.io/badge/-habr-202020?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/whyhilde/) [![Reddit](https://img.shields.io/badge/Reddit-202020.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/whyhilde)
 
 ## TECHNOLOGY STACK
 
@@ -21,8 +21,9 @@
 
 ## STATISTICS IN GITHUB
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyhilde&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=gruvbox&hide_border=false"  />
+  <img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuyma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 </div>
 
 <h2 align="center"> MY TOP PROJECTS </h2>
