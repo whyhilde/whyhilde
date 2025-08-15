@@ -21,9 +21,8 @@
 
 ## STATISTICS IN GITHUB
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=catppuccin_mocha&hide_border=true"  />
-  <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhilde&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=whyhilde&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhilde&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <h2 align="center"> MY TOP PROJECTS </h2>
