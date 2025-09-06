@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
+ <img src="https://img.shields.io/badge/rust-1e1e2e.svg?style=for-the-badge&logo=rust&logoColor=white" height="35px"> 
  <img src="https://img.shields.io/badge/c-1e1e2e.svg?style=for-the-badge&logo=C&logoColor=white" height="35px"> 
- <img src="https://img.shields.io/badge/c++-1e1e2e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35px"> 
  <img src="https://img.shields.io/badge/python-1e1e2e.svg?style=for-the-badge&logo=python&logoColor=white" height="35px">
   <img src="https://img.shields.io/badge/bash_script-1e1e2e.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="35px">
 </div>
@@ -55,4 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhilde&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
 
-<h1 align="center"> My top projects </h1>
+<h1 align="center"> my top projects </h1>
