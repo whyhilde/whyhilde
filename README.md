@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/+E18nvGwQOLw3ZjA6" target="_blank"><img src="https://img.shields.io/badge/Telegram-1e1e2e.svg?style=for-the-badge&logo=telegram&logoColor=white" height="35px"></a>
+  <a href="https://t.me/+DN-HHfkYo0tjMjli" target="_blank"><img src="https://img.shields.io/badge/Telegram-1e1e2e.svg?style=for-the-badge&logo=telegram&logoColor=white" height="35px"></a>
   <a href="https://habr.com/ru/users/whyhilde/" target="_blank"><img src="https://img.shields.io/badge/-habr-1e1e2e.svg?style=for-the-badge&logo=habr&logoColor=white" height="35px"></a>
   <a href="https://reddit.com/user/whyhilde" target="_blank"><img src="https://img.shields.io/badge/Reddit-1e1e2e.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="35px"></a>
 </div>
