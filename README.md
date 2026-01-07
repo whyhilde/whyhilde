@@ -3,7 +3,9 @@
 <h1 align="center"><img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks</h1>
 
 <div align="center">
- <img src="https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white" height="35px"> 
+ <img src="https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white" height="35px"> ">
+ <h1><img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="64px"> GitHub Stats</h1>
+
  <img src="https://img.shields.io/badge/c-1e1e2e.svg?style=for-the-badge&logo=c&logoColor=white" height="35px"> 
  <img src="https://img.shields.io/badge/python-1e1e2e.svg?style=for-the-badge&logo=python&logoColor=white" height="35px"> 
  <img src="https://img.shields.io/badge/lua-1e1e2e.svg?style=for-the-badge&logo=lua&logoColor=white" height="35px"> 
@@ -35,6 +37,7 @@
   <a href="https://habr.com/ru/users/whyhilde/" target="_blank"><img src="https://img.shields.io/badge/-habr-1e1e2e.svg?style=for-the-badge&logo=habr&logoColor=white" height="35px"></a>
   <a href="https://reddit.com/user/whyhilde" target="_blank"><img src="https://img.shields.io/badge/reddit-1e1e2e.svg?style=for-the-badge&logo=reddit&logoColor=white" height="35px"></a>
 </div>
+
 
 <div align="center">
  <h1><img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="64px"> GitHub Stats</h1>
