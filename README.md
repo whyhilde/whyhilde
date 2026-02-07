@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is hilde!</h1>
 
-<h1 align="center"><img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks</h1>
+<h1 align="center">Languages and Frameworks</h1>
 
 <div align="center">
  <img src="https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white" height="35px"> 
@@ -24,11 +24,9 @@
   <img src="https://img.shields.io/badge/Neovim-1e1e2e.svg?style=for-the-badge&logo=neovim&logoColor=white" height="35px">
 </div>
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="35" height="35">
-</div>
--->
 <h1 align="center"><img src="https://i.imgur.com/bV7Z20x.gif" width="64px"> Social Media</h1>
+
+![Hi](https://awesome-github-stats.azurewebsites.net/user-stats/whyhilde?cardType=github&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false&Background=181825&Text=CDD6F4&Title=89B4FA&Border=CDD6F4&Ring=89B4FA&borderRadius=5)
 
 <div align="center">
   <a href="https://t.me/whyhilde" target="_blank"><img src="https://img.shields.io/badge/telegram-1e1e2e.svg?style=for-the-badge&logo=telegram&logoColor=white" height="35px"></a>
