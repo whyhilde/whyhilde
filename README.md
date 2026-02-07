@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is hilde!</h1>
 
-<h1 align="center">Languages and Frameworks</h1>
+<h1 align="center">languages and frameworks</h1>
 
 <div align="center">
  <img src="https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white" height="35px"> 
@@ -11,7 +11,7 @@
 </div>
 
 
-<h1 align="center"><img src="https://i.imgur.com/72GslRm.gif" width="64px"> Tools and Technologies</h1>
+<h1 align="center">tools and technologies</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-1e1e2e.svg?style=for-the-badge&logo=docker&logoColor=white" height="35px">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Neovim-1e1e2e.svg?style=for-the-badge&logo=neovim&logoColor=white" height="35px">
 </div>
 
-<h1 align="center"><img src="https://i.imgur.com/bV7Z20x.gif" width="64px"> Social Media</h1>
+<h1 align="center">social media</h1>
 
 ![Hi](https://awesome-github-stats.azurewebsites.net/user-stats/whyhilde?cardType=github&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=false&Background=181825&Text=CDD6F4&Title=89B4FA&Border=CDD6F4&Ring=89B4FA&borderRadius=5)
 
@@ -41,4 +41,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyhilde&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
 
-<h1 align="center">My Top Projects</h1>
+<h1 align="center">my top projects</h1>
