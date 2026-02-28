@@ -3,16 +3,16 @@
 <h1 align="center">Tech Stack</h1>
 
 <div align="center">
- <img src="https://img.shields.io/badge/rust-1e1e2e.svg?style=for-the-badge&logo=rust&logoColor=white" height="35px"> 
+ <img src="https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white" height="35px"> 
  <img src="https://img.shields.io/badge/python-1e1e2e.svg?style=for-the-badge&logo=python&logoColor=white" height="35px"> 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-1e1e2e.svg?style=for-the-badge&logo=docker&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Git-1e1e2e.svg?style=for-the-badge&logo=git&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Github-1e1e2e.svg?style=for-the-badge&logo=github&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Arch-1e1e2e.svg?style=for-the-badge&logo=archlinux&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Neovim-1e1e2e.svg?style=for-the-badge&logo=neovim&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/docker-1e1e2e.svg?style=for-the-badge&logo=docker&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/git-1e1e2e.svg?style=for-the-badge&logo=git&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/github-1e1e2e.svg?style=for-the-badge&logo=github&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/arch-1e1e2e.svg?style=for-the-badge&logo=archlinux&logoColor=white" height="35px">
+  <img src="https://img.shields.io/badge/neovim-1e1e2e.svg?style=for-the-badge&logo=neovim&logoColor=white" height="35px">
 </div>
 
 <h1 align="center">Social Media</h1>
