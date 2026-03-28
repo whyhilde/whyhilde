@@ -1,6 +1,6 @@
 <h1 align="center">My name is hilde</h1>
 
-<h1 align="center">Tech Stack</h1>
+<h3 align="center">Tech Stack</h1>
 
 <div align="center">
  <img src="https://img.shields.io/badge/go-1e1e2e.svg?style=for-the-badge&logo=go&logoColor=white" height="35px"> 
