@@ -5,7 +5,8 @@
 
 # Tech Stack
 
-
+Languages & Frameworks:
+![]()
 
 # Socials
 
