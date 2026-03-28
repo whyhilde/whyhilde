@@ -3,6 +3,10 @@
 - I'm Go developer from Russia.
 - I use Arch btw.
 
+# Tech Stack
+
+
+
 # Socials
 
 - Reddit: u/whyhilde
