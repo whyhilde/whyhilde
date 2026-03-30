@@ -22,6 +22,12 @@ Platforms & OS:
 - Reddit: `u/whyhilde`
 - Telegram: `@whyhilde`
 
+# Stats
+
+<div align="center">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=whyhilde" width="600" />
+</div>
+
 # Tech Stack
 
 <div align="center">
