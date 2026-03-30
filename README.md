@@ -15,7 +15,7 @@ DevOps:
 
 Platforms & OS:
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Socials
 
@@ -26,6 +26,5 @@ Platforms & OS:
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-1e1e2e.svg?style=for-the-badge&logo=git&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/github-1e1e2e.svg?style=for-the-badge&logo=github&logoColor=white" height="35px">
   <img src="https://img.shields.io/badge/neovim-1e1e2e.svg?style=for-the-badge&logo=neovim&logoColor=white" height="35px">
 </div>
