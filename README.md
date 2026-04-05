@@ -31,9 +31,3 @@ Tools:
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=whyhilde" width="600" />
 </div>
-
-# Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/git-1e1e2e.svg?style=for-the-badge&logo=git&logoColor=white" height="35px">
-</div>
