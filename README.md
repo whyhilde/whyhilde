@@ -9,7 +9,7 @@ I'm hilde, a Go developer from Russia. I like writing clean, fast code and autom
 ### Tech Stack
 
 Languages & Frameworks:  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 DevOps:  
