@@ -36,7 +36,7 @@ Tools:
 
 ---
 
-# Stats
+### :bar_chart: GitHub Stats
 
 <div align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=whyhilde" width="600" />
