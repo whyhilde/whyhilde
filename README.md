@@ -2,14 +2,13 @@
 
 ### :thought_balloon: About Me
 
-I'm hilde, a Rust developer from Russia. I like writing clean, fast code and automating everything that moves. I use Arch btw.
+I'm hilde, a DevOps from Russia. I like writing clean, fast code and automating everything that moves. I use Arch btw.
 
 ---
 
 ### :hammer: Tech Stack
 
 Languages & Frameworks:  
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 DevOps:  
